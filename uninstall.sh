@@ -1,4 +1,4 @@
-# hey gang
+# i didn't make this, i js archived it, credit goes to 109dg
 installLink='bash -c "$(curl -fsSL https://www.hydrogen.lat/install)"'
 
 main() {
