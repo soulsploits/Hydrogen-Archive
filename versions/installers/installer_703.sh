@@ -67,5 +67,5 @@ defaults delete com.roblox.RobloxPlayerChannel 2>/dev/null || true
 killall cfprefsd 2>/dev/null || true
 
 # 4. Done
-success "Hydrogen-M installed successfully!"
-echo "Enjoy the experience! Please provide feedback to help us improve."
+success "Installed Hydrogen v703,"
+echo "For more questions, join https://discord.gg/rMfDdfYWpx."
